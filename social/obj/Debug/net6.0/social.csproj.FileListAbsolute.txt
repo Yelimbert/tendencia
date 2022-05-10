@@ -1,0 +1,15 @@
+/Users/yelimbertjavier/tendencia/social/bin/Debug/net6.0/social
+/Users/yelimbertjavier/tendencia/social/bin/Debug/net6.0/social.deps.json
+/Users/yelimbertjavier/tendencia/social/bin/Debug/net6.0/social.runtimeconfig.json
+/Users/yelimbertjavier/tendencia/social/bin/Debug/net6.0/social.dll
+/Users/yelimbertjavier/tendencia/social/bin/Debug/net6.0/social.pdb
+/Users/yelimbertjavier/tendencia/social/obj/Debug/net6.0/social.csproj.AssemblyReference.cache
+/Users/yelimbertjavier/tendencia/social/obj/Debug/net6.0/social.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yelimbertjavier/tendencia/social/obj/Debug/net6.0/social.AssemblyInfoInputs.cache
+/Users/yelimbertjavier/tendencia/social/obj/Debug/net6.0/social.AssemblyInfo.cs
+/Users/yelimbertjavier/tendencia/social/obj/Debug/net6.0/social.csproj.CoreCompileInputs.cache
+/Users/yelimbertjavier/tendencia/social/obj/Debug/net6.0/social.dll
+/Users/yelimbertjavier/tendencia/social/obj/Debug/net6.0/refint/social.dll
+/Users/yelimbertjavier/tendencia/social/obj/Debug/net6.0/social.pdb
+/Users/yelimbertjavier/tendencia/social/obj/Debug/net6.0/social.genruntimeconfig.cache
+/Users/yelimbertjavier/tendencia/social/obj/Debug/net6.0/ref/social.dll
